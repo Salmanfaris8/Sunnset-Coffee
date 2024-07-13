@@ -1,0 +1,152 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Noto Sans", sans-serif;
+}
+.nav-cofee{
+    width: 100%;
+    background-color: rgb(75, 70, 70);
+    display: flex;
+    justify-content: center;
+    /* position: fixed; */
+}
+.nav-contents{
+    /* border: solid; */
+    width: 1200px;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* color: white; */
+}
+.nav-h1{
+    height: 30px;
+    border: solid 3px;
+    padding: 0px 10px;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+.nav-h12{
+    font-size: 28px;
+    font-weight: 300;
+    /* color: white; */
+}
+.nav-ul1{
+    display: flex;
+}
+.nav-lists{
+    /* border: solid; */
+    list-style: none;
+    margin: 0px 10px;
+}
+.nav-cart{
+    color: white;
+}
+.nav-dol{
+    font-weight: 700;
+    margin-left: 5px;
+    color: white;
+}
+.nav-a1{
+    text-decoration: none;
+    color: white;
+    font-weight: 550;
+}
+.nav-a1:hover{
+    text-decoration: underline;
+}
+.bg-img{
+    height: 650px;
+    /* width: 100%; */
+}
+.bg-img1{
+    height: 100%;
+    width: 100%;
+}
+#visit{
+    background-color: rgb(196, 228, 218);
+}
+.visit-main{
+    /* border: solid; */
+    height: 400px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.visit-img{
+    display: flex;
+}
+.img1{
+    padding-top: 100px;
+}
+.visit-img1{
+    /* border: solid; */
+    height: 450px;
+    width: 500px;
+    display: inline-block;
+}
+.visit-content{
+    width: 40%;
+    height: 32%;
+    /* border: solid; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.con-h3{
+    /* border: solid; */
+    font-size: 25px;
+}
+.con-p1{
+    color: gray;
+    line-height: 1.5;
+    margin-top: 10px;
+}
+.visit-a1{
+    font-size: 16px;
+    text-decoration: none;
+    border: solid;
+    width: 150px;
+    height: 25px;
+    text-align: center;
+    color: black;
+    margin-top: 10px;
+    padding: 5px;
+}
+#learn{
+    background-color: rgb(196, 228, 218);
+}
+.img2{
+    margin-left: -50px;
+}
+#buy{
+    background-color: rgb(196, 228, 218);
+
+}
+.img3{
+    width: 650px;
+}
+footer{
+    background-color: rgb(75, 70, 70);
+}
+.foot-p1{
+    color: white;
+    padding-top: 10px;
+    text-align: center;
+}
+.foot-icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0px 10px 0px;
+}
+.foot-aa1{
+    text-decoration: none;
+    color: white;
+    margin-left: 10px;
+}
+.h31{
+    color: white;
+    margin-top: -80px;
+}
